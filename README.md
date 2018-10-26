@@ -15,6 +15,13 @@ Download ZIP, unzip and then go to <pre><code>chrome://extensions</code></pre> t
 ## Installation (packed version)
 Download ZIP, unzip and then locate "quickcalc.crx" in the folder drag and drop the package file (quickcalc.crx) into the chrome window, thats it!
 
+## Setup
+	For full customization of this extension visit chrome://flags on your chrome browser and search for 
+# Experimental Web Platform features Mac, Windows, Linux, Chrome OS, Android
+Enables experimental Web Platform features that are in development. #enable-experimental-web-platform-features
+
+#Ensure you enable this feature as this extension is built on CSS grid System.
+
 ## Used librarys
 
 <a href="http://jquery.com">jQuery</a>
