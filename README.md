@@ -7,10 +7,7 @@ Author: Obadimu Ismail
 QuickCalc Chrome extension is a light calculator that make it easy for you to make use of calculator on your web browser.
 
 #### Screenshot: popup.html
-![](https://raw.githubusercontent.com/onigetoc/Materialize-CSS-Chrome-Extension-template/gh-pages/img/screenshot1.png)
-
-#### Screenshot: options.html
-![](https://raw.githubusercontent.com/onigetoc/Materialize-CSS-Chrome-Extension-template/gh-pages/img/screenshot2.png)
+![](https://https://github.com/Cradoe/quickCalc/blob/master/img/screenshot.png)
 
 
 ## Installation
