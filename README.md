@@ -1,4 +1,4 @@
-# QuickCalc Chrome extension
+# Quick Calculator Chrome extension
 Author: Obadimu Ismail
 
 * * *
