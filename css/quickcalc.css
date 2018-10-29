@@ -70,6 +70,13 @@ body{
   padding: 0.5em 0.75em;
   text-align: right;
 }
+.cal_display_prev{
+  background-color: #222222;
+  color: #fff;
+  font-size: 1.014286em;
+  padding: 0.3em 0.75em 0;
+  text-align: right;
+}
 
 .key--operator {
   background-color: #eee;
